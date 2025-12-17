@@ -48,14 +48,21 @@ The same core ML concepts are applied and explained across:
 
 ml-from-scratch/
 │
+
 ├── 01_linear_regression/
+
 │ ├── linear_regression.py
+
 │ └── README.md
+
 │
+
 ├── 02_logistic_regression/
+
 │
 ├── 03_gradient_descent/
 │
+
 └── notes/
 
 

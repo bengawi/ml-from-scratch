@@ -57,7 +57,6 @@ ml-from-scratch/
 ├── 03_gradient_descent/
 │
 └── notes/
-
 ---
 
 ## Status
